@@ -1,0 +1,11 @@
+C:\Users\micha\source\repos\Christmas_Tree\Christmas_Tree\bin\Debug\Christmas_Tree.exe.config
+C:\Users\micha\source\repos\Christmas_Tree\Christmas_Tree\bin\Debug\Christmas_Tree.exe
+C:\Users\micha\source\repos\Christmas_Tree\Christmas_Tree\bin\Debug\Christmas_Tree.pdb
+C:\Users\micha\source\repos\Christmas_Tree\Christmas_Tree\obj\Debug\Christmas_Tree.csproj.AssemblyReference.cache
+C:\Users\micha\source\repos\Christmas_Tree\Christmas_Tree\obj\Debug\Christmas_Tree.csproj.SuggestedBindingRedirects.cache
+C:\Users\micha\source\repos\Christmas_Tree\Christmas_Tree\obj\Debug\Christmas_Tree.Form1.resources
+C:\Users\micha\source\repos\Christmas_Tree\Christmas_Tree\obj\Debug\Christmas_Tree.Properties.Resources.resources
+C:\Users\micha\source\repos\Christmas_Tree\Christmas_Tree\obj\Debug\Christmas_Tree.csproj.GenerateResource.cache
+C:\Users\micha\source\repos\Christmas_Tree\Christmas_Tree\obj\Debug\Christmas_Tree.csproj.CoreCompileInputs.cache
+C:\Users\micha\source\repos\Christmas_Tree\Christmas_Tree\obj\Debug\Christmas_Tree.exe
+C:\Users\micha\source\repos\Christmas_Tree\Christmas_Tree\obj\Debug\Christmas_Tree.pdb
